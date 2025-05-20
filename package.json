@@ -1,6 +1,6 @@
 {
     "name": "inventory-management-system",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "Simple inventory management system application",
     "scripts": {
         "dev": "nodemon",
